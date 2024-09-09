@@ -1,0 +1,87 @@
+.table_color{
+    background-color: rgb(206, 201, 201);
+}
+.main_header{
+
+    /* 
+    border-radius: 15px 50px;
+    border: solid, #73AD21;
+    padding: 20px;
+    text-align: center;
+    width: auto;
+    background-color: rgb(243 249 242); */
+    margin: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color:rgb(3, 59, 44);
+
+}
+
+.heading{
+
+    border-radius: 25px;
+    border: dotted, #836504;
+    padding: 20px;
+    width: 300px;
+    /* height: 50px; */
+
+    background-color: rgb(241, 222, 135);
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 30px
+}
+
+.detail_box{
+
+    
+    border-radius: 25px;
+    border: dotted, #07451b;
+    padding: 45px;
+    width: 200px;
+    /* height: 50px; */
+
+    background-color: rgb(234, 248, 240);
+    font-weight: bold;
+    margin: 10px
+
+}
+
+.sub_title_font {
+    font-size: 25px;
+}
+
+.image_1 {
+    background-image: url('pantry-staples-on-counter.jpg'); 
+    /* https://www.yummytoddlerfood.com/wp-content/uploads/2020/03/pantry-staples-on-counter.jpg */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+    border: dotted, #07451b;
+    padding: 75px;
+    width: 200px;
+    margin: 10px
+}
+
+.image_2 {
+    background-image: url('vegetable.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+    border: dotted, #07451b;
+    padding: 75px;
+    width: 200px;
+    margin: 10px
+}
+
+.image_3 {
+    background-image: url('frozenfood.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+    border: dotted, #07451b;
+    padding: 75px;
+    width: 200px;
+    margin: 10px
+}
